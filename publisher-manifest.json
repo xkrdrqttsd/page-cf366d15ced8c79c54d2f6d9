@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "3f8540a27753dd84bbe2ca48",
+  "owner": "xkrdrqttsd",
+  "repo": "page-cf366d15ced8c79c54d2f6d9",
+  "title": "小火箭节点",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cf366d15ced8c79c54d2f6d9",
+      "a": "小火箭节点",
+      "b": "",
+      "entity": "小火箭节点",
+      "brand": "小火箭节点",
+      "separator": "",
+      "path": "index.html",
+      "hash": "fbba1d5d4f2304966b929d93e7ab82ad695b82068f3e018a1b25750330925115",
+      "content": {
+        "keyword1": "小火箭节点",
+        "keyword2": "",
+        "primary_entity": "小火箭节点",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火箭节点为您提供专业的VPN网络加速服务，月付15元起，300GB流量，支持5台设备在线。下载官方客户端，畅享全球节点加速，解锁流媒体平台。官网下载即刻体验。",
+          "AI_DESCRIPTION": "小火箭节点为您提供专业的VPN网络加速服务，月付15元起，300GB流量，支持5台设备在线。下载官方客户端，畅享全球节点加速，解锁流媒体平台。官网下载即刻体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        body { font-family: 'Microsoft YaHei', Arial, sans-serif; background-color: #FAF8F5; color: #333; line-height: 1.6; margin: 0; padding: 0; }\n        header { background: linear-gradient(135deg, #FF6B6B, #FF8A80); color: white; padding: 40px 20px; text-align: center; }\n        h1 { font-size: 3.5rem; margin: 0; }\n        nav { background: #fff; padding: 15px; position: sticky; top: 0; z-index: 10; }\n        nav ul { list-style: none; padding: 0; display: flex; justify-content: center; gap: 20px; }\n        nav a { color: #333; text-decoration: none; font-weight: 500; }\n        main { max-width: 1200px; margin: 0 auto; padding: 20px; }\n        section { margin-bottom: 40px; }\n        h2 { color: #FF6B6B; font-size: 2rem; border-bottom: 2px solid #FF6B6B; padding-bottom: 10px; }\n        .plan-list { display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; }\n        .plan { flex: 1; min-width: 280px; background: #fff; border-radius: 12px; padding: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); text-align: center; transition: transform 0.3s; }\n        .plan:hover { transform: translateY(-8px); }\n        .plan.featured { border: 4px solid #FF6B6B; position: relative; }\n        .plan.featured::after { content: '推荐'; position: absolute; top: -12px; right: 20px; background: #FF6B6B; color: white; padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; }\n        .plan h3 { font-size: 1.5rem; margin: 10px 0 15px; }\n        .plan p { font-size: 1.4rem; margin: 5px 0; }\n        ul { text-align: left; padding-left: 20px; }\n        li { margin: 8px 0; }\n        button { background: #FF6B6B; color: white; border: none; padding: 12px 30px; border-radius: 30px; cursor: pointer; font-size: 1rem; margin-top: 15px; }\n        details { margin-bottom: 15px; background: #fff; padding: 18px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); }\n        summary { font-weight: bold; cursor: pointer; font-size: 1.1rem; }\n        footer { background: #333; color: #fff; padding: 30px 20px; text-align: center; font-size: 0.95rem; }\n        @media (max-width: 768px) {\n            h1 { font-size: 2.8rem; }\n            .plan-list { flex-direction: column; }\n        }\n    </style>\n\n\n    <header>\n        <h1>小火箭节点</h1>\n        <p>高速VPN加速器 • 机场订阅 • 客户端下载</p>\n    </header>\n    <nav>\n        <ul>\n            <li><a href=\"#intro\">品牌简介</a></li>\n            <li><a href=\"#scenarios\">使用场景</a></li>\n            <li><a href=\"#guide\">操作指南</a></li>\n            <li><a href=\"#plans\">套餐选择</a></li>\n            <li><a href=\"#faq\">常见问题</a></li>\n        </ul>\n    </nav>\n    <main>\n        <section id=\"intro\">\n            <h2>品牌简介</h2>\n            <p>小火箭节点是一款专业的网络加速服务，专注于提供稳定、高速的VPN节点池。无论您是个人用户还是团队团队，我们都为您打造便捷的加速体验。服务覆盖全球节点，支持多种设备连接，让您随时随地畅享高速网络。</p>\n            <p>无论是追求流畅的影视观看，还是游戏加速，都能在这里找到最佳解决方案。官方客户端下载简单快捷，一键连接即刻加速。</p>\n        </section>\n        <section id=\"scenarios\">\n            <h2>使用场景</h2>\n            <ul>\n                <li>家庭多人在线：支持3-5台设备同时连接，适合全家共享网络</li>\n                <li>游戏加速：IPLC专线优化，提升游戏延迟，畅玩竞技游戏</li>\n                <li>影视解锁：全节点原生解锁Netflix、Disney+、YouTube等流媒体平台</li>\n                <li>企业VPN：支持20台设备，企业定制路由，保障办公安全高效</li>\n            </ul>\n        </section>\n        <section id=\"guide\">\n            <h2>操作指南</h2>\n            <ol>\n                <li>访问官网，点击立即下载客户端</li>\n                <li>注册账号并选择适合的套餐进行支付</li>\n                <li>登录后选择节点连接，享受极速加速</li>\n                <li>支持一键切换节点，实时监控流量</li>\n            </ol>\n        </section>\n        <section id=\"plans\">\n            <h2>套餐选择</h2>\n            <div class=\"plan-list\">\n                <div class=\"plan\">\n                    <h3>基础版</h3>\n                    <p>¥15/月</p>\n                    <p>按年付仅需 ¥150/年</p>\n                    <ul>\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                    \n                </div>\n                <div class=\"plan featured\">\n                    <h3>旗舰版</h3>\n                    <p>¥35/月</p>\n                    <p>按年付仅需 ¥350/年</p>\n                    <ul>\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                    \n                </div>\n                <div class=\"plan\">\n                    <h3>团队版</h3>\n                    <p>¥85/月</p>\n                    <p>按年付仅需 ¥850/年</p>\n                    <ul>\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                    \n                </div>\n            </div>\n        </section>\n        <section id=\"faq\">\n            <h2>常见问题</h2>\n            <details>\n                <summary>小火箭节点是什么？</summary>\n                <p>小火箭节点是一款专业的VPN网络加速服务，提供稳定可靠的全球节点池，帮助用户提升网络速度，解锁各类流媒体平台。</p>\n            </details>\n            <details>\n                <summary>如何订阅小火箭节点？</summary>\n                <p>您可以访问官网，选择合适的套餐进行支付，然后下载并安装客户端，登录账号即可使用。</p>\n            </details>\n            <details>\n                <summary>流量如何计算？</summary>\n                <p>每月流量按日结算，超出流量将限速。</p>\n            </details>\n            <details>\n                <summary>支持哪些设备？</summary>\n                <p>支持Windows、macOS、iOS、Android等多种操作系统，适用于手机、平板、电脑等设备。</p>\n            </details>\n            <details>\n                <summary>售后服务如何？</summary>\n                <p>旗舰版及以上提供7x24 优先工单支持，专属客服快速响应您的网络问题。</p>\n            </details>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n    <footer>\n        <p>© 2024 小火箭节点 | 官网下载 | 隐私政策 | 联系我们 | 友链</p>\n    </footer>\n\n",
+          "hash": "c3ea4fa0effc026722dfe012cceff4af42331adeaecf124fec15dae28aaf6a59",
+          "seo": {
+            "title": "小火箭节点 - 高速VPN加速器 | 机场订阅与客户端下载",
+            "keywords": "小火箭节点,VPN加速器,机场订阅,客户端下载,网络加速器,梯子,VPN服务",
+            "description": "小火箭节点为您提供专业的VPN网络加速服务，月付15元起，300GB流量，支持5台设备在线。下载官方客户端，畅享全球节点加速，解锁流媒体平台。官网下载即刻体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "rkcujx.cn",
+    "host": "p-3a4ba9c110.rkcujx.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "08059d6e3a210cfc6623ec84eb01fe3f5cdd594134905b64f733f8fcfe5671ab",
+    "sitemap.xml": "3a7b4e26df16afdda6e9267ed7d7f240aaf8ccd20899170554ea7ebf34fa5109",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7b6098a68499b3d4d49da6ca34d4cf57214ca81181db115b90ee399872f18cde",
+    "robots.txt": "80b44924bf0acf786670eb91e96c8c31d9fc0b38d8134c816f8cd58e324f30ce",
+    "ffb2fa0bd70579b509ba89176a3efc6a.txt": "93d86e6b7e799a8d0ef2bb1891d0d65d49d7d820b7277b744c5e06056e722afb"
+  },
+  "revision": "fb508cdba9dd36e4bf7aae460468c89bb226e8fba4dff99f86c8b56b20529faa"
+}
